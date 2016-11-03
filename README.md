@@ -1,7 +1,7 @@
 # appcan-download-page
 APP无线下载页面
 
-* plist文件用于指导iOS设备下载、安卓app，参考：
+* plist文件用于指导iOS设备下载、安装app，参考：
   docs/iOS7_DeploymentTechncialGuide_FF_CNSC_05May2014.pdf
 
 * iOS自从9.x（记不清了）版本后，必须通过HTTPS协议下载plist文件；
