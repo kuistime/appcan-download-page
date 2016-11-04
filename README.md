@@ -9,6 +9,7 @@ APP无线下载页面
 * 微信端扫描二维码安装时，需要选择使用外部浏览器打开；
 
 * 在 iOS 上安装自定企业级应用的准则，参考：
+
   https://support.apple.com/zh-cn/HT204460
 
   docs/在 iOS 上安装自定企业级应用的准则 - Apple 支持.pdf
